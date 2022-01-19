@@ -263,6 +263,10 @@
 .mr-15{
 	margin-right: 15px;
 }
+/* margin */
+.m-50{
+	margin: 50px;
+}
 /*-- Padding Top --*/
 
 .pt-5 {
@@ -732,4 +736,8 @@
 }
 [data-overlay="9"]::before {
 	opacity: 0.9;
+}
+/* text */
+.text-right{
+	text-align: right;
 }
